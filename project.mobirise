@@ -1,0 +1,397 @@
+{
+  "settings": {
+    "name": "Ostronos Ostry",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 13,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/duze-zblizenie-super-2000x1333.jpg",
+                "contentAlign": "center",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Ostronos</span> Ostry",
+                "showText": true,
+                "text": "Witam! Jestem Ostronos Ostry. Jestem ruchliwy, mam ryjkowato wydłużony nos i smukły ogon. Przypominam nieco Króla Juliana ale nie jestem tak próżny. Jestem za to ciekawski, dobrze się wspinam. Prowadzę samotny tryb życia, choć w okresie godowym spotykam się z kolegami. Żeruję dniem w zaroślach i lasach, poszukując nasion, owoców, jaj i małych kręgowców. <br>Zaproś mnie do siebie a opowiem Ci więcej o sobie.&nbsp;<br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/z-dzieciakami1-super-super-2000x1124.jpg",
+                "contentAlign": "center",
+                "overlay": true,
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br><br>SPOTKAJMY SIĘ",
+                "showText": true,
+                "text": "Jeśli jesteś zainteresowany spotkaniem, napisz do mnie a na pewno znajdę czas aby się spotkać. Zarówno dzieci jak i dorośli uwielbiają mnie, a ja bardzo lubię podróżować.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/szkola5-super-2000x1125.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br>PROWADZIMY SPOTKANIA",
+                "showText": true,
+                "text": "Chętnie odwiedzamy szkoły i przedszkola, jak również umilamy różne wydarzenia okolicznościowe. Opowiadamy o nas i wszędzie wzbudzamy ogromne zainteresowanie. Zaproś nas.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/wisi-na-futrynie-2000x1333.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br>Upps! Złapaliście mnie",
+                "showText": true,
+                "text": "Nie zostawiaj mnie samego w domu. Na pewno nabroje.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-5",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8",
+          "title": "SPOTKANIA Z OSTRONOSEM RUDYM",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "By Marcin Kamiński opulikowano Czerwiec 30, 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9",
+          "text": "<p>Ostronos Południowoamerykański (Nasua nasua), jest gatunkiem Ostronosa Rudego z tropikalnej i subtropikalnej Ameryki Południowej. W języku brazylijskim (odmiana portugalskiego) jest znany jako Quati. Waga tego gatunku wynosi 2-7,2 kg (4,4-15,9 funta), a długość całkowita wynosi 85-113 cm (33-44 cala), a połowę stanowi jej ogon. &nbsp;Jego kolor jest bardzo zmienny, a pierścienie na ogonie mogą być dość słabe. &nbsp;Występuje na nizinach na wschód od Andów (lokalnie, występuje w wysokości 2500 m), w Kolumbii i na wyspie Guianas na południe od Urugwaju i północnej Argentyny.<br><br>Ostronos jest zwierzętami dobowymi i żyją zarówno na ziemi, jak i na drzewach. Zazwyczaj mieszkają w lesie. Są wszystkożerne i przede wszystkim jedzą owoce, bezkręgowce, inne małe zwierzęta i ptaki. &nbsp;Ostronosy szukaj owoców na drzewach wysoko w baldachimie. Używają swoich wydłużonych pyszczków, aby przetrząsać szczeliny w ziemi w poszukiwani pożywienia. W tym celu potrafią odwracać kamienie, a swoich ostrych pazurów używają aby zdzierać korę i tam również poszukiwać różnych bezkręgowców.<br><br>Samice żyją zazwyczaj w dużych grupach, składających się z 15 do 30 zwierząt. Samce, z drugiej strony, są zwykle samotne. Samotni mężczyźni byli początkowo uważani za oddzielne gatunki ze względu na różne zwyczaje społeczne. &nbsp;<br><br>Członkowie stada wydają łagodne dźwięki, ale wywołania alarmowe są różne, składają się z głośnych dźwięków i kliknięć. Kiedy rozbrzmiewa się alarm, ostronosy zazwyczaj wspinają się na drzewa, &nbsp;a następnie skaczą na ziemię i się rozpraszają się w różnych kierunkach. &nbsp;Śpią zazwyczaj na drzewach. Polują na nie min. lisy, jaguary i ludzie.</p><p><br></p><p>Źródło: Wiki</p><p><br></p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dzieciaki-fajne-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dzieciaki-fajne-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/na-drzewie-super-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/na-drzewie-super-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/kierowca-autobusu-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kierowca-autobusu-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/gopr-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gopr-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/szkola1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/szkola1-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/szkola2-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/szkola2-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/szkola5-super-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/szkola5-super-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/szkola4-tablica-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/szkola4-tablica-2000x1125.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/park-linowy-super-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/park-linowy-super-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/ostronos-pociag-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ostronos-pociag-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/calus-marcin-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/calus-marcin-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/z-dzieciakiem-super-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/z-dzieciakiem-super-2000x1333.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "fullWidth": true,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-c",
+          "articleLayout": true
+        },
+        {
+          "_styles": {},
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-4",
+          "_params": {
+            "bgColor": "#252525",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=NrfAOtdXwHA",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "text": "Zapraszamy do obejrzenia krótkiego filmu o nas. Miłego oglądania."
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "ZOBACZ CO MÓWIA O NAS NASI FANI"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "NAPISZ DO NAS I UMÓW SPOTKANIE",
+          "form": {
+            "action": "an.icon.pictures@gmail.com",
+            "alerts": {
+              "success": "Dzięki za kontakt! Na pewno się odezwę."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Imię*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-7",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "link": "https://www.facebook.com/OstronosOstry/",
+              "size": "50",
+              "color": "#ffffff",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POLUB NAS</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://\">STRONA GŁÓWNA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://\">O NAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://\">KONTAKT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        }
+      ]
+    }
+  }
+}
